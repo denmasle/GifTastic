@@ -1,0 +1,23 @@
+.container {
+    background: lightgray;
+    border-radius: 25px;
+}
+
+.pics {
+    display: inline-block;
+    margin: 3px;
+}
+
+#list-buttons {
+    padding: 5px;
+    border-bottom: 2px solid white;
+}
+
+#list-buttons, #images-show {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.form-control, .btn {
+    border-radius: 25px;
+}
